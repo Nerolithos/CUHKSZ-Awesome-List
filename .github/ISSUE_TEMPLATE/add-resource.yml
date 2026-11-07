@@ -1,0 +1,31 @@
+name: Suggest a resource / 推荐资源
+description: Propose a CUHKSZ-related project or resource / 推荐港中深项目或资源
+title: "[Add]: "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Canonical URL / 项目原始地址
+    validations:
+      required: true
+  - type: textarea
+    id: usefulness
+    attributes:
+      label: Category and bilingual description / 分类及中英文简介
+      description: Explain a concrete use case. / 说明具体用途。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Public CUHKSZ connection / 公开学校关联证据
+      description: Link an explicit statement; do not infer identity. / 提供明确说明的链接，不推断身份。
+    validations:
+      required: true
+  - type: textarea
+    id: status
+    attributes:
+      label: License, latest commit, and relationship / 许可、最近提交及本人关系
+      description: Unknown is acceptable; disclose self-submissions. / 可标未知，自荐请说明。
+    validations:
+      required: true

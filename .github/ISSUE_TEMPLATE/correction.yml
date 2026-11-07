@@ -1,0 +1,17 @@
+name: Correct or remove an entry / 更正或移除
+description: Report outdated links or request an editorial change / 反馈失效链接或编辑请求
+title: "[Update]: "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry URL or repository name / 条目链接或仓库名
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Requested change and public evidence / 修改请求与公开依据
+      description: Do not post private information or conduct reports here. / 不要在此公开个人信息或行为举报。
+    validations:
+      required: true
