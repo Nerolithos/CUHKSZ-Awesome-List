@@ -9,8 +9,9 @@ projects=json.loads((ROOT/'data/projects.json').read_text())
 assert len({p['full_name'].lower() for p in projects}) == len(projects), 'Duplicate project'
 for p in projects:
     assert p['category'] in {c[0] for c in CATEGORIES}, p['full_name']
-    for field in ['summary_en','summary_zh','evidence_url','default_branch_commit_at','commit_url','checked_on']:
+    for field in ['summary_en','summary_zh','evidence_url','default_branch_commit_at','commit_url','checked_on','language_checked_on']:
         assert p.get(field), (p['full_name'],field)
+    assert 'language' in p and (p['language'] is None or isinstance(p['language'], str) and p['language'].strip()), p['full_name']
     assert p['html_url']=='https://github.com/'+p['full_name']
     assert isinstance(p['stargazers_count'],int) and p['stargazers_count']>=0
     assert p['default_branch_commit_at'][:10]<=p['checked_on'], 'Future commit'

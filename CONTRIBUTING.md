@@ -15,7 +15,7 @@ Exclude unrelated keyword matches (LGU can refer to other universities), unmodif
 ## Submit a change
 
 1. Search both READMEs and `data/projects.json` for duplicates.
-2. Add or update a record in `data/projects.json`. Include the canonical repository URL, category, concise English and Chinese summaries, public affiliation evidence, license status, star count, observation date, and latest default-branch commit URL/date. Use `null` for an unclear license; do not guess.
+2. Add or update a record in `data/projects.json`. Include the canonical repository URL, category, concise English and Chinese summaries, public affiliation evidence, license status, star count, observation date, GitHub primary language (`language`, or `null` when undetected), language check date (`language_checked_on`), and latest default-branch commit URL/date. Use `null` for an unclear license; do not guess.
 3. Run `python3 scripts/render.py` and `python3 scripts/check.py`.
 4. Open a focused pull request explaining usefulness and providing evidence. Self-submissions are welcome; disclose ownership or collaboration.
 

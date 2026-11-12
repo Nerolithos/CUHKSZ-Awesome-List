@@ -15,7 +15,7 @@
 ## 提交步骤
 
 1. 在两个 README 和 `data/projects.json` 中检查重复。
-2. 编辑 `data/projects.json`，填写规范仓库地址、分类、中英文简述、公开关联证据、许可状态、Star 数、核查日期、默认分支最近提交地址及日期。许可不明时填 `null`，不要猜测。
+2. 编辑 `data/projects.json`，填写规范仓库地址、分类、中英文简述、公开关联证据、许可状态、Star 数、核查日期、GitHub 主要语言（`language`，未识别时为 `null`）、语言核查日期（`language_checked_on`）、默认分支最近提交地址及日期。许可不明时填 `null`，不要猜测。
 3. 运行 `python3 scripts/render.py` 与 `python3 scripts/check.py`。
 4. 提交范围清晰的 PR，说明实用价值和证据。欢迎自荐，请披露本人或合作关系。
 

@@ -19,3 +19,7 @@ Initial GitHub repository searches: `CUHKSZ`, `CUHK-Shenzhen`, `CUHK-SZ`, and `L
 `data/projects.json` records the exact public API star counts, default-branch commit dates and URLs, archive flags, SPDX detection, public affiliation sources, and observation date. `pushed_at` and `updated_at` are retained for transparency but are not used as commit evidence. GitHub license detection may miss custom or nested terms: “unclear” means manual clarification is needed, not a legal conclusion that no license exists. / 数据文件保存 API 的准确 Star 数、默认分支提交日期与地址、归档标记、许可识别、关联证据及核查日期。保留 push/update 字段供核对，不将其当成提交证据。GitHub 可能漏识别自定义或嵌套条款；“许可不明”表示需要人工澄清。
 
 No source code, notes, or upstream README copies are redistributed here. / 本仓库不重新分发上游代码、笔记或 README 副本。
+
+## Primary language / 主要语言
+
+Primary language was checked separately on 2026-11-12 using the public GitHub repository API’s `language` field. This is GitHub’s classification, not a manually inferred technology stack; values such as HTML, Shell, and Jupyter Notebook are retained as returned. A null result is shown as “Not detected / 未识别”. Star and activity snapshots remain dated 2026-11-01. / 主要语言单独于 2026-11-12 使用 GitHub 公开仓库 API 的 `language` 字段核查，保留 HTML、Shell、Jupyter Notebook 等原始分类，不按技术栈推断。空值显示“未识别”。Star 与活跃度仍采用 2026-11-01 快照。

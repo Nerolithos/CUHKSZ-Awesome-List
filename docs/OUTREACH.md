@@ -1,5 +1,7 @@
 # Developer outreach / 联系开发者
 
+For posting in another repository’s GitHub Discussions, use the [repository-specific bilingual discussion drafts](DISCUSSION_INVITATION.md). / 在他人仓库的 GitHub Discussions 留言时，可使用[逐仓库中英文邀请文案](DISCUSSION_INVITATION.md)。
+
 ## Should you contact authors? / 是否需要联系？
 
 English: A brief, accurate link listing is an editorial decision; do not describe it as an endorsement or demand permission to copy code. A personal invitation is useful for checking descriptions, license status, maintenance expectations, and additional submissions. Obtain explicit permission before reproducing assets, adding a personal profile, or naming an author as a maintainer. No author has been contacted by this repository’s initial preparation.
@@ -28,46 +30,10 @@ English: A brief, accurate link listing is an editorial decision; do not describ
 
 These are places to find the author’s preferred channel, not a claim that unsolicited promotion is accepted there. / 以上是寻找作者首选渠道的入口，不表示这些地方都接受推广。
 
-## Chinese template / 中文模板
+## Repository-specific drafts / 逐仓库文案
 
-主题：邀请核对 Awesome CUHKSZ 中的「项目名」条目
-
-你好，我正在维护 Awesome CUHKSZ，一个非官方、社区共同维护的港中深项目与资源索引。
-
-我读到了你的「项目名」，其中「具体功能」对「具体同学或使用场景」很有帮助，因此整理了这个条目：
-
-「项目名 — 一句话描述」
-项目链接：填入项目地址
-列表条目：发布后填入真实条目链接
-
-想请你有空时帮忙看一下描述和项目入口是否准确；若有维护状态或许可信息需要标注，也欢迎告诉我或直接提 PR。若你愿意，也欢迎推荐其他相关作品。参与完全自愿，无需 Star、互链或承担维护义务；如希望更正或移除条目，我会处理。
-
-谢谢你分享这个项目！
-署名：你的 GitHub 用户名
-
-许可不明时可追加：我暂时将其标为“公开资源 · 许可不明”，没有默认授予读者复用权。如果你愿意，可以在确认原创与第三方内容权利后补充许可说明。
-
-## English template
-
-Subject: Invitation to review your project’s Awesome CUHKSZ entry
-
-Hi,
-
-I maintain Awesome CUHKSZ, an independent, community-curated index of projects and resources related to CUHK-Shenzhen.
-
-I found your project, [name], especially useful for [specific use case] because of [specific feature]. I prepared this entry:
-
-[name] — [one-sentence description]
-Project: [project URL]
-List entry: [real entry URL after publication]
-
-Would you be willing to check the description and preferred project link? Corrections to maintenance or license information, pull requests, and suggestions of related projects are welcome. Participation is optional, with no request for stars, reciprocal links, or maintenance commitments. I am happy to correct or remove the entry if you prefer.
-
-Thank you for sharing your work!
-[GitHub username]
-
-Optional license question: I currently label the entry as a public resource with an unclear license, without assuming reuse permission. If you wish, please clarify terms for your original work while retaining any third-party terms.
+See the [16 repository-specific drafts](DISCUSSION_INVITATION.md) for complete English and Chinese titles and messages. Each describes the actual project and makes a concrete request. / 请使用 [16 个仓库各自的文案](DISCUSSION_INVITATION.md)，包含完整中英文标题与正文，分别说明具体项目价值和请求。
 
 ## Tracking / 跟踪
 
-Record only project, date, channel type, response status, and requested editorial changes. Keep private email addresses and correspondence out of public commits. Never label someone a contributor or maintainer without agreement. Replace template fields before sending. / 仅记录项目、日期、渠道类型、回复状态及编辑请求；私人邮箱和通信不进入公开提交。未经同意，不将对方列为贡献者或维护者。发送前替换模板字段。
+Record only project, date, channel type, response status, and requested editorial changes. Keep private email addresses and correspondence out of public commits. Never label someone a contributor or maintainer without agreement. Choose the relevant draft before sending. / 仅记录项目、日期、渠道类型、回复状态及编辑请求；私人邮箱和通信不进入公开提交。未经同意，不将对方列为贡献者或维护者。发送前选择对应项目的文案。

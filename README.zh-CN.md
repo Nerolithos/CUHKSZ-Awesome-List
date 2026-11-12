@@ -18,6 +18,8 @@
 
 查看[收录核查记录](docs/SELECTION.md)、[贡献指南](CONTRIBUTING.zh-CN.md)与[联系作者建议](docs/OUTREACH.md)。
 
+主要语言采用 GitHub 仓库语言识别结果（核查于 2026-11-12），不代表完整技术栈；未识别时标为“未识别”。
+
 ## 目录
 
 - [学生作品](#student)
@@ -33,35 +35,35 @@
 
 ## 学生作品
 
-- [NeuroTrip](https://github.com/Nerolithos/NeuroTrip) — 结合 AI 与信息可视化的交互式神经科学体验。 ⭐ 20; 180 天内有提交 (2026-08-11); 公开资源 · 许可不明.
+- [NeuroTrip](https://github.com/Nerolithos/NeuroTrip) — 结合 AI 与信息可视化的交互式神经科学体验。 **主要语言: HTML**; ⭐ 20; 180 天内有提交 (2026-08-11); 公开资源 · 许可不明.
 
 <a id="academic"></a>
 
 ## 学习资源
 
-- [cuhksz-ml-notes](https://github.com/Heycys/cuhksz-ml-notes) — DDA5001 机器学习笔记，涵盖优化与神经网络等内容。 ⭐ 52; 180 天内有提交 (2026-05-20); 公开资源 · 许可不明.
-- [world-model-spatial-intelligence-course](https://github.com/overdued/world-model-spatial-intelligence-course) — 世界模型与空间智能课程，包含阅读材料与实验。 ⭐ 10; 180 天内有提交 (2026-09-28); 代码 MIT / 内容 CC BY 4.0.
-- [CUHKSZ-CSC4005](https://github.com/tonyyxliu/CUHKSZ-CSC4005) — 并行编程课程材料，涵盖 CPU 与 GPU 编程。 ⭐ 87; 181–365 天内有提交 (2025-12-06); MIT.
+- [cuhksz-ml-notes](https://github.com/Heycys/cuhksz-ml-notes) — DDA5001 机器学习笔记，涵盖优化与神经网络等内容。 **主要语言: HTML**; ⭐ 52; 180 天内有提交 (2026-05-20); 公开资源 · 许可不明.
+- [world-model-spatial-intelligence-course](https://github.com/overdued/world-model-spatial-intelligence-course) — 世界模型与空间智能课程，包含阅读材料与实验。 **主要语言: Jupyter Notebook**; ⭐ 10; 180 天内有提交 (2026-09-28); 代码 MIT / 内容 CC BY 4.0.
+- [CUHKSZ-CSC4005](https://github.com/tonyyxliu/CUHKSZ-CSC4005) — 并行编程课程材料，涵盖 CPU 与 GPU 编程。 **主要语言: C++**; ⭐ 87; 181–365 天内有提交 (2025-12-06); MIT.
 
 <a id="campus"></a>
 
 ## 校园工具
 
-- [LGU_Credit_Transfer_Search](https://github.com/Allgames817/LGU_Credit_Transfer_Search) — 查询交流交换课程的历史转学分对应关系。 ⭐ 14; 180 天内有提交 (2026-09-15); 公开资源 · 许可不明.
-- [bbwatch](https://github.com/jsyzlbw/bbwatch) — 通过编程助手插件跟踪 Blackboard 更新并下载课件。 ⭐ 3; 180 天内有提交 (2026-10-04); MIT.
-- [LGUide](https://github.com/W111aaam/LGUide) — 整合学生日常学习与管理功能的学习面板。 ⭐ 6; 180 天内有提交 (2026-08-31); 公开资源 · 许可不明.
+- [LGU_Credit_Transfer_Search](https://github.com/Allgames817/LGU_Credit_Transfer_Search) — 查询交流交换课程的历史转学分对应关系。 **主要语言: JavaScript**; ⭐ 14; 180 天内有提交 (2026-09-15); 公开资源 · 许可不明.
+- [bbwatch](https://github.com/jsyzlbw/bbwatch) — 通过编程助手插件跟踪 Blackboard 更新并下载课件。 **主要语言: Python**; ⭐ 3; 180 天内有提交 (2026-10-04); MIT.
+- [LGUide](https://github.com/W111aaam/LGUide) — 整合学生日常学习与管理功能的学习面板。 **主要语言: JavaScript**; ⭐ 6; 180 天内有提交 (2026-08-31); 公开资源 · 许可不明.
 
 <a id="research"></a>
 
 ## 科研与实验室
 
-- [FlexiCodec](https://github.com/AmphionTeam/FlexiCodec) — 支持动态帧率的神经音频编解码器。 ⭐ 55; 180 天内有提交 (2026-08-20); MIT.
-- [BlenderLore](https://github.com/FreedomIntelligence/BlenderLore) — 研究从教程视频中学习 Blender 编程。 ⭐ 97; 180 天内有提交 (2026-10-14); Apache-2.0.
-- [gamecraft-bench](https://github.com/FreedomIntelligence/gamecraft-bench) — 评测智能体在游戏引擎中构建可玩游戏的能力。 ⭐ 213; 180 天内有提交 (2026-10-22); Apache-2.0.
-- [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) — 面向 OpenClaw 的医学 AI 技能集，作为研究资源收录。 ⭐ 3088; 180 天内有提交 (2026-07-21); 公开资源 · 许可不明.
-- [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) — 使用大语言模型智能体模拟社会经济系统。 ⭐ 227; 181–365 天内有提交 (2026-03-07); MIT.
-- [DualCodec](https://github.com/jiaqili3/DualCodec) — 结合语义表征的低帧率神经音频编解码器。 ⭐ 72; 181–365 天内有提交 (2026-03-11); MIT.
-- [Amphion](https://github.com/open-mmlab/Amphion) — 音频、音乐与语音生成工具箱。 ⭐ 10328; 181–365 天内有提交 (2026-03-25); MIT.
+- [FlexiCodec](https://github.com/AmphionTeam/FlexiCodec) — 支持动态帧率的神经音频编解码器。 **主要语言: Python**; ⭐ 55; 180 天内有提交 (2026-08-20); MIT.
+- [BlenderLore](https://github.com/FreedomIntelligence/BlenderLore) — 研究从教程视频中学习 Blender 编程。 **主要语言: Python**; ⭐ 97; 180 天内有提交 (2026-10-14); Apache-2.0.
+- [gamecraft-bench](https://github.com/FreedomIntelligence/gamecraft-bench) — 评测智能体在游戏引擎中构建可玩游戏的能力。 **主要语言: Shell**; ⭐ 213; 180 天内有提交 (2026-10-22); Apache-2.0.
+- [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) — 面向 OpenClaw 的医学 AI 技能集，作为研究资源收录。 **主要语言: Python**; ⭐ 3088; 180 天内有提交 (2026-07-21); 公开资源 · 许可不明.
+- [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) — 使用大语言模型智能体模拟社会经济系统。 **主要语言: Python**; ⭐ 227; 181–365 天内有提交 (2026-03-07); MIT.
+- [DualCodec](https://github.com/jiaqili3/DualCodec) — 结合语义表征的低帧率神经音频编解码器。 **主要语言: Jupyter Notebook**; ⭐ 72; 181–365 天内有提交 (2026-03-11); MIT.
+- [Amphion](https://github.com/open-mmlab/Amphion) — 音频、音乐与语音生成工具箱。 **主要语言: Python**; ⭐ 10328; 181–365 天内有提交 (2026-03-25); MIT.
 
 <a id="communities"></a>
 
@@ -75,8 +77,8 @@
 
 ## 实用资源
 
-- [CUHKSZ-Manual](https://github.com/doutv/CUHKSZ-Manual) — 社区共同编写的龙大生存手册。 ⭐ 42; 180 天内有提交 (2026-07-14); MIT.
-- [weblog](https://github.com/Nerolithos/weblog) — 面向港中深学生的个人校园指南与课程讲解。 ⭐ 19; 180 天内有提交 (2026-11-01); 公开资源 · 许可不明.
+- [CUHKSZ-Manual](https://github.com/doutv/CUHKSZ-Manual) — 社区共同编写的龙大生存手册。 **主要语言: 未识别**; ⭐ 42; 180 天内有提交 (2026-07-14); MIT.
+- [weblog](https://github.com/Nerolithos/weblog) — 面向港中深学生的个人校园指南与课程讲解。 **主要语言: JavaScript**; ⭐ 19; 180 天内有提交 (2026-11-01); 公开资源 · 许可不明.
 
 <a id="contributing"></a>
 

@@ -18,6 +18,8 @@ The initial **16 projects** were checked on **2026-11-01**. Stars are a dated sn
 
 See the [selection audit](docs/SELECTION.md), [contribution guide](CONTRIBUTING.md), and [author outreach guide](docs/OUTREACH.md).
 
+Primary language follows GitHub repository language detection (checked on 2026-11-12), rather than the full technology stack. Repositories without a detected language are labeled “Not detected”.
+
 ## Contents
 
 - [Student Projects](#student)
@@ -33,35 +35,35 @@ See the [selection audit](docs/SELECTION.md), [contribution guide](CONTRIBUTING.
 
 ## Student Projects
 
-- [NeuroTrip](https://github.com/Nerolithos/NeuroTrip) — Interactive neuroscience experience combining AI and information visualization. ⭐ 20; Commit within 180 days (2026-08-11); Public resource · license unclear.
+- [NeuroTrip](https://github.com/Nerolithos/NeuroTrip) — Interactive neuroscience experience combining AI and information visualization. **Primary language: HTML**; ⭐ 20; Commit within 180 days (2026-08-11); Public resource · license unclear.
 
 <a id="academic"></a>
 
 ## Academic Resources
 
-- [cuhksz-ml-notes](https://github.com/Heycys/cuhksz-ml-notes) — DDA5001 machine learning notes, including optimization and neural networks. ⭐ 52; Commit within 180 days (2026-05-20); Public resource · license unclear.
-- [world-model-spatial-intelligence-course](https://github.com/overdued/world-model-spatial-intelligence-course) — World models and spatial intelligence course with reading materials and labs. ⭐ 10; Commit within 180 days (2026-09-28); Code MIT / content CC BY 4.0.
-- [CUHKSZ-CSC4005](https://github.com/tonyyxliu/CUHKSZ-CSC4005) — Parallel programming course materials covering CPU and GPU programming. ⭐ 87; Commit within 181–365 days (2025-12-06); MIT.
+- [cuhksz-ml-notes](https://github.com/Heycys/cuhksz-ml-notes) — DDA5001 machine learning notes, including optimization and neural networks. **Primary language: HTML**; ⭐ 52; Commit within 180 days (2026-05-20); Public resource · license unclear.
+- [world-model-spatial-intelligence-course](https://github.com/overdued/world-model-spatial-intelligence-course) — World models and spatial intelligence course with reading materials and labs. **Primary language: Jupyter Notebook**; ⭐ 10; Commit within 180 days (2026-09-28); Code MIT / content CC BY 4.0.
+- [CUHKSZ-CSC4005](https://github.com/tonyyxliu/CUHKSZ-CSC4005) — Parallel programming course materials covering CPU and GPU programming. **Primary language: C++**; ⭐ 87; Commit within 181–365 days (2025-12-06); MIT.
 
 <a id="campus"></a>
 
 ## Campus Tools
 
-- [LGU_Credit_Transfer_Search](https://github.com/Allgames817/LGU_Credit_Transfer_Search) — Search historical exchange-course credit-transfer mappings. ⭐ 14; Commit within 180 days (2026-09-15); Public resource · license unclear.
-- [bbwatch](https://github.com/jsyzlbw/bbwatch) — Blackboard updates and course-file downloads through a coding-agent plugin. ⭐ 3; Commit within 180 days (2026-10-04); MIT.
-- [LGUide](https://github.com/W111aaam/LGUide) — Student study dashboard with tools for managing daily learning. ⭐ 6; Commit within 180 days (2026-08-31); Public resource · license unclear.
+- [LGU_Credit_Transfer_Search](https://github.com/Allgames817/LGU_Credit_Transfer_Search) — Search historical exchange-course credit-transfer mappings. **Primary language: JavaScript**; ⭐ 14; Commit within 180 days (2026-09-15); Public resource · license unclear.
+- [bbwatch](https://github.com/jsyzlbw/bbwatch) — Blackboard updates and course-file downloads through a coding-agent plugin. **Primary language: Python**; ⭐ 3; Commit within 180 days (2026-10-04); MIT.
+- [LGUide](https://github.com/W111aaam/LGUide) — Student study dashboard with tools for managing daily learning. **Primary language: JavaScript**; ⭐ 6; Commit within 180 days (2026-08-31); Public resource · license unclear.
 
 <a id="research"></a>
 
 ## Research & Labs
 
-- [FlexiCodec](https://github.com/AmphionTeam/FlexiCodec) — Neural audio codec with dynamic frame rates. ⭐ 55; Commit within 180 days (2026-08-20); MIT.
-- [BlenderLore](https://github.com/FreedomIntelligence/BlenderLore) — Research on learning Blender programming from tutorial videos. ⭐ 97; Commit within 180 days (2026-10-14); Apache-2.0.
-- [gamecraft-bench](https://github.com/FreedomIntelligence/gamecraft-bench) — Benchmark for agents building playable games in a game engine. ⭐ 213; Commit within 180 days (2026-10-22); Apache-2.0.
-- [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) — Medical AI skills collection for OpenClaw; research resource. ⭐ 3088; Commit within 180 days (2026-07-21); Public resource · license unclear.
-- [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) — LLM agents for simulating socioeconomic systems. ⭐ 227; Commit within 181–365 days (2026-03-07); MIT.
-- [DualCodec](https://github.com/jiaqili3/DualCodec) — Low-frame-rate neural audio codec with semantic representations. ⭐ 72; Commit within 181–365 days (2026-03-11); MIT.
-- [Amphion](https://github.com/open-mmlab/Amphion) — Audio, music, and speech generation toolkit. ⭐ 10328; Commit within 181–365 days (2026-03-25); MIT.
+- [FlexiCodec](https://github.com/AmphionTeam/FlexiCodec) — Neural audio codec with dynamic frame rates. **Primary language: Python**; ⭐ 55; Commit within 180 days (2026-08-20); MIT.
+- [BlenderLore](https://github.com/FreedomIntelligence/BlenderLore) — Research on learning Blender programming from tutorial videos. **Primary language: Python**; ⭐ 97; Commit within 180 days (2026-10-14); Apache-2.0.
+- [gamecraft-bench](https://github.com/FreedomIntelligence/gamecraft-bench) — Benchmark for agents building playable games in a game engine. **Primary language: Shell**; ⭐ 213; Commit within 180 days (2026-10-22); Apache-2.0.
+- [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) — Medical AI skills collection for OpenClaw; research resource. **Primary language: Python**; ⭐ 3088; Commit within 180 days (2026-07-21); Public resource · license unclear.
+- [TwinMarket](https://github.com/FreedomIntelligence/TwinMarket) — LLM agents for simulating socioeconomic systems. **Primary language: Python**; ⭐ 227; Commit within 181–365 days (2026-03-07); MIT.
+- [DualCodec](https://github.com/jiaqili3/DualCodec) — Low-frame-rate neural audio codec with semantic representations. **Primary language: Jupyter Notebook**; ⭐ 72; Commit within 181–365 days (2026-03-11); MIT.
+- [Amphion](https://github.com/open-mmlab/Amphion) — Audio, music, and speech generation toolkit. **Primary language: Python**; ⭐ 10328; Commit within 181–365 days (2026-03-25); MIT.
 
 <a id="communities"></a>
 
@@ -75,8 +77,8 @@ Community submissions are welcome. Private group invitations require voluntary s
 
 ## Useful Resources
 
-- [CUHKSZ-Manual](https://github.com/doutv/CUHKSZ-Manual) — Community-written campus survival manual. ⭐ 42; Commit within 180 days (2026-07-14); MIT.
-- [weblog](https://github.com/Nerolithos/weblog) — Personal campus guide and course explanations for CUHKSZ students. ⭐ 19; Commit within 180 days (2026-11-01); Public resource · license unclear.
+- [CUHKSZ-Manual](https://github.com/doutv/CUHKSZ-Manual) — Community-written campus survival manual. **Primary language: Not detected**; ⭐ 42; Commit within 180 days (2026-07-14); MIT.
+- [weblog](https://github.com/Nerolithos/weblog) — Personal campus guide and course explanations for CUHKSZ students. **Primary language: JavaScript**; ⭐ 19; Commit within 180 days (2026-11-01); Public resource · license unclear.
 
 <a id="contributing"></a>
 

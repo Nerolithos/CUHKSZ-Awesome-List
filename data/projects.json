@@ -19,7 +19,9 @@
     "affiliation_note": "Author profile explicitly describes leading Amphion at CUHK-Shenzhen. / 作者主页明确说明在港中深参与并主导 Amphion。",
     "checked_on": "2026-11-01",
     "contact_status": "not_contacted",
-    "license_note": "Code MIT; datasets and checkpoints may have separate terms. / 代码 MIT；数据集与权重可能采用独立条款。"
+    "license_note": "Code MIT; datasets and checkpoints may have separate terms. / 代码 MIT；数据集与权重可能采用独立条款。",
+    "language": "Python",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
@@ -40,7 +42,9 @@
     "evidence_url": "https://github.com/FreedomIntelligence",
     "affiliation_note": "Organization publicly identifies itself as a CUHK-Shenzhen research team. / 组织公开说明为港中深研究团队。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "Python",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "FreedomIntelligence/TwinMarket",
@@ -61,7 +65,9 @@
     "evidence_url": "https://github.com/FreedomIntelligence",
     "affiliation_note": "CUHK-Shenzhen research team organization. / 港中深研究团队组织。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "Python",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "FreedomIntelligence/gamecraft-bench",
@@ -82,7 +88,9 @@
     "evidence_url": "https://github.com/FreedomIntelligence",
     "affiliation_note": "CUHK-Shenzhen research team organization. / 港中深研究团队组织。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "Shell",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "FreedomIntelligence/BlenderLore",
@@ -103,7 +111,9 @@
     "evidence_url": "https://github.com/FreedomIntelligence",
     "affiliation_note": "CUHK-Shenzhen research team organization. / 港中深研究团队组织。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "Python",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "AmphionTeam/FlexiCodec",
@@ -124,7 +134,9 @@
     "evidence_url": "https://github.com/jiaqili3",
     "affiliation_note": "Author profile states CUHK-Shenzhen affiliation and pins this project. / 作者公开说明港中深关联并置顶此项目。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "Python",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "jiaqili3/DualCodec",
@@ -145,7 +157,9 @@
     "evidence_url": "https://github.com/jiaqili3",
     "affiliation_note": "Author publicly identifies as a CUHK-Shenzhen PhD student. / 作者公开说明为港中深博士生。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "Jupyter Notebook",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "tonyyxliu/CUHKSZ-CSC4005",
@@ -166,7 +180,9 @@
     "evidence_url": "https://github.com/tonyyxliu/CUHKSZ-CSC4005#readme",
     "affiliation_note": "README explicitly identifies CUHK(SZ) CSC4005. / README 明确标注港中深 CSC4005 课程。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "C++",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "Heycys/cuhksz-ml-notes",
@@ -187,7 +203,9 @@
     "evidence_url": "https://github.com/Heycys/cuhksz-ml-notes#readme",
     "affiliation_note": "README explicitly identifies CUHKSZ DDA5001. / README 明确标注港中深 DDA5001。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "HTML",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "overdued/world-model-spatial-intelligence-course",
@@ -209,7 +227,9 @@
     "affiliation_note": "README identifies CUHK(SZ) SAI BL&SP research group. / README 明确标注港中深人工智能学院 BL&SP 课题组。",
     "checked_on": "2026-11-01",
     "contact_status": "not_contacted",
-    "license_note": "Code MIT; course content CC BY 4.0; third-party materials retain original terms. / 代码 MIT；课程内容 CC BY 4.0；第三方材料沿用原条款。"
+    "license_note": "Code MIT; course content CC BY 4.0; third-party materials retain original terms. / 代码 MIT；课程内容 CC BY 4.0；第三方材料沿用原条款。",
+    "language": "Jupyter Notebook",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "Nerolithos/NeuroTrip",
@@ -230,7 +250,9 @@
     "evidence_url": "https://github.com/Nerolithos/weblog",
     "affiliation_note": "NeuroTrip README links the same author’s CUHKSZ weblog; author nominated it in this project request. / README 链接同一作者的港中深博客，且由作者在本次建库请求中主动提名。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "HTML",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "W111aaam/LGUide",
@@ -251,7 +273,9 @@
     "evidence_url": "https://github.com/W111aaam/LGUide#readme",
     "affiliation_note": "README explicitly targets CUHKSZ students. / README 明确面向港中深学生。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "JavaScript",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "jsyzlbw/bbwatch",
@@ -272,7 +296,9 @@
     "evidence_url": "https://github.com/jsyzlbw/bbwatch#readme",
     "affiliation_note": "README explicitly targets CUHK-SZ Blackboard. / README 明确面向港中深 Blackboard。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "Python",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "Allgames817/LGU_Credit_Transfer_Search",
@@ -293,7 +319,9 @@
     "evidence_url": "https://github.com/Allgames817/LGU_Credit_Transfer_Search#readme",
     "affiliation_note": "README explicitly identifies CUHK-Shenzhen students as intended users. / README 明确说明面向港中深学生。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "JavaScript",
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "doutv/CUHKSZ-Manual",
@@ -314,7 +342,9 @@
     "evidence_url": "https://github.com/doutv/CUHKSZ-Manual#readme",
     "affiliation_note": "README names CUHK-Shenzhen Survival Manual. / README 明确命名为龙大生存手册。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": null,
+    "language_checked_on": "2026-11-12"
   },
   {
     "full_name": "Nerolithos/weblog",
@@ -335,6 +365,8 @@
     "evidence_url": "https://github.com/Nerolithos/weblog#readme",
     "affiliation_note": "README explicitly describes a CUHKSZ campus and course blog. / README 明确说明为港中深校园与课程博客。",
     "checked_on": "2026-11-01",
-    "contact_status": "not_contacted"
+    "contact_status": "not_contacted",
+    "language": "JavaScript",
+    "language_checked_on": "2026-11-12"
   }
 ]
